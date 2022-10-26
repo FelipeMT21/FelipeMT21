@@ -5,7 +5,7 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMT21&show_icons=true&theme=radical)
 
-## 🌞 Tecnologias que eu estudo no meu dia a dia 💻
+## Tecnologias que eu estudo no meu dia a dia 🌞💻
 
 <div style ="display: inline_block"><br/>
  <img aLign="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />

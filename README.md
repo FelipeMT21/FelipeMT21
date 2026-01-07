@@ -1,4 +1,4 @@
-### Olá! me chamo João Felipe - Desenvolvedor Java - *Trainee*✋😄
+### Olá! me chamo João Felipe - Desenvolvedor Java - *Junior*✋😄
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaosuporte21@gmail.com)
 [![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-felipe-1028aa210/)

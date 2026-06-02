@@ -1,15 +1,62 @@
-### Olá! me chamo João Felipe - Desenvolvedor Java - *Junior*✋😄
+# Olá, sou João Felipe 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaosuporte21@gmail.com)
-[![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-felipe-1028aa210/)
-[![instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoz3r0/)
+**Desenvolvedor Backend Java | Full Stack Developer**  
+📍 Fortaleza, CE — Aberto a oportunidades remotas
 
- ### Tecnologias que eu estudo no meu dia a dia 🌞💻
+Desenvolvedor com experiência prática em ambiente hospitalar de alta criticidade, atuando no desenvolvimento e manutenção de sistemas web com Java, Spring Boot, React e Angular. Foco em APIs RESTful, segurança de aplicações e arquitetura escalável.
 
-<div style ="display: inline_block"><br/>
- <img aLign="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
- <img aLign="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img aLign="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- <img aLign="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
+---
+
+## 🚀 Projeto em Destaque
+
+### [Vault – Gerenciador Financeiro Full Stack](https://vault-finance.vercel.app)
+> Aplicação web completa para gestão financeira pessoal com autenticação JWT, CRUD completo, categorização automática de transações e dashboard analítico.
+
+**Stack:** Java • Spring Boot • Angular • PostgreSQL • JUnit • API REST  
+🔗 [Acessar aplicação](https://vault-finance.vercel.app) | [Ver repositório](https://github.com/FelipeMT21)
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Banco de Dados & Ferramentas**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💼 Experiência
+
+**Analista de Sistemas** @ Santa Casa da Misericórdia de Fortaleza *(2025 – Atual)*  
+- Desenvolvimento e manutenção do Sistema de Gerenciamento de Doações (Node.js, ReactJS)
+- Integração da API ONCO ao ecossistema hospitalar
+- Correção de falhas críticas de segurança em dashboards internos
+- Integração de gateway de pagamento (Mercado Pago)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FelipeMT21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMT21&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-felipe-martins)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://felipe-portfolio-blush.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosuporte21@gmail.com)
